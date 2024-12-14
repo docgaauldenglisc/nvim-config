@@ -1,0 +1,2 @@
+require("nosqetau")
+print("AAAAA")
